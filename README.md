@@ -214,17 +214,17 @@ WARNING, the custom version is not an official release, download only if invited
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/KyNarec>
-            <img src=https://avatars.githubusercontent.com/u/113847208?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=KyNarec/>
-            <br />
-            <sub style="font-size:14px"><b>KyNarec</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/S0nter>
             <img src=https://avatars.githubusercontent.com/u/108224581?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sonter/>
             <br />
             <sub style="font-size:14px"><b>Sonter</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/KyNarec>
+            <img src=https://avatars.githubusercontent.com/u/113847208?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=KyNarec/>
+            <br />
+            <sub style="font-size:14px"><b>KyNarec</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
@@ -273,9 +273,9 @@ WARNING, the custom version is not an official release, download only if invited
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/25huizengek1>
-            <img src=https://avatars.githubusercontent.com/u/50515369?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=25huizengek1/>
+            <img src=https://avatars.githubusercontent.com/u/50515369?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Bart Oostveen/>
             <br />
-            <sub style="font-size:14px"><b>25huizengek1</b></sub>
+            <sub style="font-size:14px"><b>Bart Oostveen</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
